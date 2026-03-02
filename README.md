@@ -50,14 +50,16 @@ Currently based in **Florida, USA** and available for remote work worldwide.
 
 ---
 
+## 🚀 Featured Projects
+
+---
+
 ### 🎓 Sylem — Multi-Tenant LMS SaaS Platform
 Enterprise-grade Learning Management System built from scratch as sole technical resource for Coolearning Consulting LLC. Multi-tenancy with tenant isolation, microservices architecture, contract-first OpenAPI development, and real-time WebSocket notifications. Phase 2 includes Python AI services.  
 `Spring Boot 3` `Java 21` `Next.js 14` `PostgreSQL` `MongoDB` `Redis` `Kubernetes` `Kafka`  
 [![Repo](https://img.shields.io/badge/Details-181717?style=flat-square&logo=github)](https://github.com/peter-campos/sylem-summary)
 
 ---
-
-## 🚀 Featured Projects
 
 ### ⚖️ IURIS — Legal Case Management System
 Legal platform in **active production use** since 2017. Features Microsoft 365 integration via Graph API, granular RBAC, case audit timelines, document template banks, and financial tracking per case.  
