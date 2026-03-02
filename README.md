@@ -12,7 +12,7 @@ Lake Mary, FL, USA · U.S. Permanent Resident
 
 ## 🧠 About Me
 
-15+ years building enterprise systems across **government, financial, and education sectors**. I've architected platforms that process **5M+ daily records**, handle **400M+ monthly invoices**, and serve thousands of concurrent users across multiple tenants.
+18+ years building enterprise systems across **government, financial, and education sectors**. I've architected platforms that process **5M+ daily records**, handle **400M+ monthly invoices**, and serve thousands of concurrent users across multiple tenants.
 
 I work across the full stack — backend microservices, cloud infrastructure, CI/CD pipelines, and frontend interfaces — with a strong focus on clean architecture, security, and performance.
 
