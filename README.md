@@ -74,16 +74,6 @@ Educational mobile app developed for **Universidad de los Andes** & **University
 
 ---
 
-## 📈 Career Highlights
-
-- 🏛️ **DIAN (Colombia's IRS)** — Architected debt-sync system processing **5M+ daily records**, reduced batch recovery from **48h → 2h**, cut infrastructure by **50%**
-- 🧾 **Electronic Invoicing** — Distributed rule-validation handling **400M+ monthly invoices** on Azure Cosmos DB
-- 🎓 **Sylem LMS** — Built entire technical foundation solo: backend, infrastructure, CI/CD, and frontend
-- 🔒 **Universidad de los Andes** — Cloud architecture and WCAG 2.0 cybersecurity consulting
-- 🌍 **El Viaje de Martina** — Published Flutter app in collaboration with two universities, live in both stores
-
----
-
 ## 🎓 Education & Certifications
 
 🎓 **MSc Software Engineering & Computer Systems** — Universidad Internacional de la Rioja, Spain (2021)  
