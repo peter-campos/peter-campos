@@ -52,22 +52,16 @@ Currently based in **Florida, USA** and available for remote work worldwide.
 
 ## 🚀 Featured Projects
 
----
-
 ### 🎓 Sylem — Multi-Tenant LMS SaaS Platform
 Enterprise-grade Learning Management System built from scratch as sole technical resource for Coolearning Consulting LLC. Multi-tenancy with tenant isolation, microservices architecture, contract-first OpenAPI development, and real-time WebSocket notifications. Phase 2 includes Python AI services.  
 `Spring Boot 3` `Java 21` `Next.js 14` `PostgreSQL` `MongoDB` `Redis` `Kubernetes` `Kafka`  
 [![Repo](https://img.shields.io/badge/Details-181717?style=flat-square&logo=github)](https://github.com/peter-campos/sylem-summary)
-
----
 
 ### ⚖️ IURIS — Legal Case Management System
 Legal platform in **active production use** since 2017. Features Microsoft 365 integration via Graph API, granular RBAC, case audit timelines, document template banks, and financial tracking per case.  
 `Java EE` `WildFly` `PostgreSQL` `JSF` `Docker` `Railway`  
 [![Repo](https://img.shields.io/badge/Details-181717?style=flat-square&logo=github)](https://github.com/peter-campos/iuris-summary)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-7B2FBE?style=flat-square&logo=railway)](https://iuris-production.up.railway.app/iuris)
-
----
 
 ### 📱 El Viaje de Martina — Flutter Mobile App
 Educational mobile app developed for **Universidad de los Andes** & **University of Southampton**, designed to teach migrant women about their sexual and reproductive rights. Offline-first content with embedded podcast support. Published on App Store & Google Play under Coolearning Consulting LLC.
