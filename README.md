@@ -88,3 +88,4 @@ I'm available for **freelance and contract work** on Upwork and direct engagemen
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/peter-campos)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peter.campos.leon@gmail.com)
+[![Resume](https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/13nP-fOLskcHYtSWq9tEbEsoirPEuzBXR/view?usp=sharing)
