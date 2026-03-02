@@ -2,7 +2,7 @@
 
 > **Software that adapts to your workflow — not the other way around.**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Railway-7B2FBE?style=for-the-badge&logo=railway)](https://iuris-production.up.railway.app/iuris)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Railway-7B2FBE?style=for-the-badge&logo=railway)](https://iuris-production.up.railway.app/iuris/login)
 [![Java](https://img.shields.io/badge/Java-1.8-ED8B00?style=for-the-badge&logo=openjdk)](https://www.java.com)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
