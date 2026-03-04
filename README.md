@@ -71,7 +71,7 @@ Educational mobile app developed for **Universidad de los Andes** & **University
 📂 Full details, download instructions and file verification available in the project repository.
 
 `Flutter` `Dart` `Offline-first`  
-[![Repo](https://img.shields.io/badge/Details-181717?style=flat-square&logo=github)](https://github.com/peter-campos/martina-summary/)
+[![Full Project Details →](https://img.shields.io/badge/Full_Project_Details_→-181717?style=for-the-badge&logo=github)](https://github.com/peter-campos/martina-summary/)
 
 ---
 
