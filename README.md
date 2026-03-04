@@ -52,18 +52,14 @@ Currently based in **Florida, USA** and available for remote work worldwide.
 
 ## 🚀 Featured Projects
 
-### 🎓 Sylem — Multi-Tenant LMS SaaS Platform
-Enterprise-grade Learning Management System built from scratch as sole technical resource for Coolearning Consulting LLC. Multi-tenancy with tenant isolation, microservices architecture, contract-first OpenAPI development, and real-time WebSocket notifications. Phase 2 includes Python AI services.  
-`Spring Boot 3` `Java 21` `Next.js 14` `PostgreSQL` `MongoDB` `Redis` `Kubernetes` `Kafka`  
-[![Repo](https://img.shields.io/badge/Details-181717?style=flat-square&logo=github)](https://github.com/peter-campos/sylem-summary)
-
 ### ⚖️ IURIS — Legal Case Management System
 ![Java EE](https://img.shields.io/badge/Java_EE-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![WildFly](https://img.shields.io/badge/WildFly-CC0000?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![JSF](https://img.shields.io/badge/JSF-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-7B2FBE?style=flat-square&logo=railway&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Microsoft Graph API](https://img.shields.io/badge/Microsoft_Graph_API-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
 Legal platform in **active production use** since 2017. Features Microsoft 365 integration via Graph API, granular RBAC, case audit timelines, document template banks, and financial tracking per case.  
 
+🌐 Live demo available — explore the full feature set with the demo credentials provided in the project repository.
+
 [![Full Project Details →](https://img.shields.io/badge/Full_Project_Details_→-181717?style=for-the-badge&logo=github)](https://github.com/peter-campos/iuris-summary)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-7B2FBE?style=for-the-badge&logo=railway)](https://iuris-production.up.railway.app/iuris)
 
 ##
 
