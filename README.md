@@ -68,9 +68,10 @@ Educational mobile app developed for **Universidad de los Andes** & **University
 
 > The project agreement has ended and the app is no longer available in the stores. With Coolearning's permission, the app can be distributed directly — download the APK for Android, or send an email to request a TestFlight invitation for iOS.
 
+📂 Full details, download instructions and file verification available in the project repository.
+
 `Flutter` `Dart` `Offline-first`  
-[![APK](https://img.shields.io/badge/Download_APK-3DDC84?style=flat-square&logo=android&logoColor=white)](#)
-[![TestFlight iOS](https://img.shields.io/badge/Request_TestFlight_Invite-0D96F6?style=flat-square&logo=apple&logoColor=white)](mailto:peter.campos.leon@gmail.com?subject=TestFlight%20Invite%20Request%20-%20El%20Viaje%20de%20Martina)
+[![Repo](https://img.shields.io/badge/Details-181717?style=flat-square&logo=github)](https://github.com/peter-campos/martina-summary/)
 
 ---
 
