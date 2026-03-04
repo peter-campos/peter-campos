@@ -64,6 +64,10 @@ Legal platform in **active production use** since 2017. Features Microsoft 365 i
 [![Live Demo](https://img.shields.io/badge/Live_Demo-7B2FBE?style=flat-square&logo=railway)]([https://iuris-production.up.railway.app/iuris](https://iuris-porfolio.up.railway.app/login))
 
 ### 📱 El Viaje de Martina — Flutter Mobile App
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Offline](https://img.shields.io/badge/Offline--first-43853D?style=flat-square)
+
 Educational mobile app developed for **Universidad de los Andes** & **University of Southampton**, designed to teach migrant women about their sexual and reproductive rights. Offline-first content with embedded podcast support. Published on App Store & Google Play under Coolearning Consulting LLC.
 
 > The project agreement has ended and the app is no longer available in the stores. With Coolearning's permission, the app can be distributed directly — download the APK for Android, or send an email to request a TestFlight invitation for iOS.
@@ -71,10 +75,6 @@ Educational mobile app developed for **Universidad de los Andes** & **University
 📂 Full details, download instructions and file verification available in the project repository.
 
 [![Full Project Details →](https://img.shields.io/badge/Full_Project_Details_→-181717?style=for-the-badge&logo=github)](https://github.com/peter-campos/martina-summary/) 
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Offline](https://img.shields.io/badge/Offline--first-43853D?style=flat-square)
 
 ---
 
