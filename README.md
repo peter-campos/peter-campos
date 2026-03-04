@@ -68,8 +68,9 @@ Educational mobile app developed for **Universidad de los Andes** & **University
 
 > The project agreement has ended and the app is no longer available in the stores. With Coolearning's permission, the app can be distributed directly — download the APK for Android, or send an email to request a TestFlight invitation for iOS.
 
-[![Full Project Details →](https://img.shields.io/badge/Full_Project_Details_→-181717?style=for-the-badge&logo=github)](https://github.com/peter-campos/martina-summary/) download instructions and file verification available in the project repository.
+📂 Full details, download instructions and file verification available in the project repository.
 
+[![Full Project Details →](https://img.shields.io/badge/Full_Project_Details_→-181717?style=for-the-badge&logo=github)](https://github.com/peter-campos/martina-summary/) 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Offline](https://img.shields.io/badge/Offline--first-43853D?style=flat-square)
