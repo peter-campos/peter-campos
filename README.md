@@ -62,7 +62,7 @@ Enterprise-grade Learning Management System built from scratch as sole technical
 
 Legal platform in **active production use** since 2017. Features Microsoft 365 integration via Graph API, granular RBAC, case audit timelines, document template banks, and financial tracking per case.  
 
-[![Repo](https://img.shields.io/badge/Details-181717?style=flat-square&logo=github)](https://github.com/peter-campos/iuris-summary)
+[![Full Proyect Details ->](https://img.shields.io/badge/Details-181717?style=flat-square&logo=github)](https://github.com/peter-campos/iuris-summary)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-7B2FBE?style=flat-square&logo=railway)]([https://iuris-production.up.railway.app/iuris](https://iuris-porfolio.up.railway.app/login))
 
 ##
