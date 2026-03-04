@@ -16,8 +16,6 @@ Lake Mary, FL, USA · U.S. Permanent Resident
 
 I work across the full stack — backend microservices, cloud infrastructure, CI/CD pipelines, and frontend interfaces — with a strong focus on clean architecture, security, and performance.
 
-Currently based in **Florida, USA** and available for remote work worldwide.
-
 ---
 
 ## 🛠️ Core Stack
