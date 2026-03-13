@@ -76,6 +76,17 @@ Educational mobile app developed for **Universidad de los Andes** & **University
 
 ---
 
+## 💼 Notable Work
+
+| Project | Role | Impact |
+|---|---|---|
+| **Sylem LMS** — Multi-tenant SaaS platform | Architect & Lead Engineer | Designed architecture and built entire stack; reduced cloud costs 30–40% vs traditional LMS solutions like Moodle |
+| **Normalizacion de Saldos** — DIAN debt-sync system | Tech Lead & Architect | 5M+ daily records; batch recovery reduced from 48h → 2h; infrastructure cut 50% |
+| **Electronic Invoicing** — DIAN | Architect | 400M+ monthly invoices on Azure Cosmos DB under strict regulatory deadlines |
+| **Devolucion IVA Turistas** — DIAN | Developer | Automated VAT refunds for 3.2M international visitors |
+
+---
+
 ## 🎓 Education & Certifications
 
 🎓 **MSc Software Engineering & Computer Systems** — Universidad Internacional de la Rioja, Spain (2021)  
