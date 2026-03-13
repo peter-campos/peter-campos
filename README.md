@@ -57,7 +57,7 @@ Legal platform in **active production use** since 2017. Features Microsoft 365 i
 
 🌐 Live demo available — explore the full feature set with the demo credentials provided in the project repository.
 
-[![Full Project Details →](https://img.shields.io/badge/Full_Project_Details_→-FF6A00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peter-campos/iuris-summary)
+[![Full Project Details →](https://img.shields.io/badge/Full_Project_Details_→-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peter-campos/iuris-summary)
 
 ##
 
@@ -72,7 +72,7 @@ Educational mobile app developed for **Universidad de los Andes** & **University
 
 📂 Full details, download instructions and file verification available in the project repository.
 
-[![Full Project Details →](https://img.shields.io/badge/Full_Project_Details_→-FF6A00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peter-campos/martina-summary) 
+[![Full Project Details →](https://img.shields.io/badge/Full_Project_Details_→-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peter-campos/martina-summary)
 
 ---
 
