@@ -1,4 +1,4 @@
-# Hey, I'm Peter 👋
+# Hey, I'm Peter 👋 :)
 
 **Senior Full-Stack Engineer** · Java · Spring Boot · React · AWS · Flutter  
 Lake Mary, FL, USA · U.S. Permanent Resident
