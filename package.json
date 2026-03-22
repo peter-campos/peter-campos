@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "peter-campos",
+  "version": "1.0.0",
+  "description": "...",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peter-campos/peter-campos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peter-campos/peter-campos/issues"
+  },
+  "homepage": "https://github.com/peter-campos/peter-campos#readme",
+  "dependencies": {
+    "marked": "^17.0.5"
+  }
+}
