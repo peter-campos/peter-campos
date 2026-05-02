@@ -50,6 +50,17 @@ I work across the full stack — backend microservices, cloud infrastructure, CI
 
 ## 🚀 Featured Projects
 
+### 🎮 FogOfWar — Gaming Market Intelligence Dashboard
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) ![AWS EC2](https://img.shields.io/badge/AWS_EC2-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+Real-time market intelligence dashboard for indie game founders and scouts. Aggregates signals from Steam, SteamSpy, Twitch, and Reddit, processes them through a **Groq-powered LLM pipeline**, and delivers actionable insights via a dark-mode gaming dashboard. Features a **RAG pipeline** with local embeddings (all-MiniLM-L6-v2) and pgvector for semantic game search.
+
+🌐 Live demo available at [fogofwar.peter-campos.site](https://fogofwar.peter-campos.site)
+
+[![Full Project Details →](https://img.shields.io/badge/Full_Project_Details_→-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peter-campos/fogofwar-summary)
+
+##
+
 ### ⚖️ IURIS — Legal Case Management System
 ![Java EE](https://img.shields.io/badge/Java_EE-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![WildFly](https://img.shields.io/badge/WildFly-CC0000?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![JSF](https://img.shields.io/badge/JSF-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-7B2FBE?style=flat-square&logo=railway&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Microsoft Graph API](https://img.shields.io/badge/Microsoft_Graph_API-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
